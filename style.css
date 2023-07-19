@@ -38,7 +38,7 @@ body {
 
 .container {
     margin: 1.5rem;
-    background-color: var(--Very-pale-blue);
+    background-color: white;
     border-radius: 1.125rem;
     overflow: hidden;
     max-width: 450px;
@@ -74,7 +74,7 @@ body {
 
 /* Pricing */
 .pricing {
-    background-color: hsla(225, 100%, 94%, 0.5);
+    background-color: var(--Very-pale-blue);
     font-size: var(--pricetext);
     padding: var(--pad-price);
     display: flex;
